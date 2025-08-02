@@ -54,6 +54,18 @@ HTML/CSS/JavaScript-based personal website hosted via GitHub Pages
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshithReddy01&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshithReddy01&theme=react&hide_border=true" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithReddy01&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/harshith-reddy-nalla-6005012ab/)
