@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Harshith Reddy Nalla
 
-<!--
-**HarshithReddy01/HarshithReddy01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science (AI)** major at **University of South Dakota**  
+📍 Based in Vermillion, South Dakota | 📅 Graduating May 2027  
+🌐 [My Portfolio](https://harshith-s-portfolio.vercel.app/)  
+📧 harshithreddynalla01@gmail.com | 📞 (914) 746-2076  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+**Languages:** Java, Python, JavaScript, TypeScript  
+**Frontend:** React, React Native, Tailwind CSS  
+**Backend:** Spring Boot, JUnit, Mockito  
+**Tools:** Git, GitHub, Postman, VS Code, IntelliJ  
+**AI/ML:** NumPy, Pandas
+
+---
+
+## 📚 Projects
+
+### [🔗 UniVibe – Campus Social App](https://github.com/HarshithReddy01/UniVibe)
+A React + TypeScript web platform to enhance student engagement.  
+✔ Built complete frontend + backend  
+✔ Designed modern UI  
+✔ Integrated chat and event modules
+
+### [📊 Student Gradebook Manager](https://github.com/HarshithReddy01/Student-Gradebook-Manager)
+Console-based Java application to manage student records  
+✔ File handling  
+✔ CRUD operations
+
+### [☁️ Weather Dashboard](https://github.com/HarshithReddy01/WeatherApplication)
+Real-time weather app using OpenWeatherMap API (Spring Boot + React)
+
+### [🌐 Personal Portfolio](https://harshith-s-portfolio.vercel.app/)
+HTML/CSS/JavaScript-based personal website hosted via GitHub Pages
+
+---
+
+## 🏆 Achievements
+
+- 🧪 NSF I-Corps Program Participant (2025)
+- 🎓 Dean's List – 2023 (Spring & Fall), 2025 (Spring)
+- 🧠 Elected Senator – SGA, University of South Dakota (2024–2025)
+
+---
+
+## 🤝 Leadership & Volunteering
+
+- 🇺🇸 Volunteer – American Red Cross, Blood Donation Drives (2024)
+- 👨‍💼 Student Supervisor – Sodexo at USD
+- 👥 Member – NSCS, Code Club, ACM
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/harshith-reddy-nalla-6005012ab/)
+- [GitHub](https://github.com/HarshithReddy01)
+- [Portfolio Website](https://harshith-s-portfolio.vercel.app/)
