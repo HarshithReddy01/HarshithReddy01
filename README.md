@@ -1,73 +1,18 @@
-# 👋 Hi, I'm Harshith Reddy Nalla
 
-🎓 **Computer Science (AI)** major at **University of South Dakota**  
-📍 Based in Vermillion, South Dakota | 📅 Graduating May 2027  
-🌐 [My Portfolio](https://harshith-s-portfolio.vercel.app/)  
-📧 harshithreddynalla01@gmail.com | 📞 (914) 746-2076  
-
----
-
-## 🚀 Tech Stack
-
-**Languages:** Java, Python, JavaScript, TypeScript  
-**Frontend:** React, React Native, Tailwind CSS  
-**Backend:** Spring Boot, JUnit, Mockito  
-**Tools:** Git, GitHub, Postman, VS Code, IntelliJ  
-**AI/ML:** NumPy, Pandas
-
----
-
-## 📚 Projects
-
-### [🔗 UniVibe – Campus Social App](https://github.com/HarshithReddy01/UniVibe)
-A React + TypeScript web platform to enhance student engagement.  
-✔ Built complete frontend + backend  
-✔ Designed modern UI  
-✔ Integrated chat and event modules
-
-### [📊 Student Gradebook Manager](https://github.com/HarshithReddy01/Student-Gradebook-Manager)
-Console-based Java application to manage student records  
-✔ File handling  
-✔ CRUD operations
-
-### [☁️ Weather Dashboard](https://github.com/HarshithReddy01/WeatherApplication)
-Real-time weather app using OpenWeatherMap API (Spring Boot + React)
-
-### [🌐 Personal Portfolio](https://harshith-s-portfolio.vercel.app/)
-HTML/CSS/JavaScript-based personal website hosted via GitHub Pages
-
----
-
-## 🏆 Achievements
-
-- 🧪 NSF I-Corps Program Participant (2025)
-- 🎓 Dean's List – 2023 (Spring & Fall), 2025 (Spring)
-- 🧠 Elected Senator – SGA, University of South Dakota (2024–2025)
-
----
-
-## 🤝 Leadership & Volunteering
-
-- 🇺🇸 Volunteer – American Red Cross, Blood Donation Drives (2024)
-- 👨‍💼 Student Supervisor – Sodexo at USD
-- 👥 Member – NSCS, Code Club, ACM
-
----
-
-## 📈 GitHub Stats
-📊 **GitHub Stats:**  
+## GitHub Stats
+**GitHub Stats:**  
 ![Harshith Reddy Nalla GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithReddy01&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithReddy01&layout=compact&theme=radical)  
 
 
-📈 [Metrics](https://raw.githubusercontent.com/HarshithReddy01/HarshithReddy01/main/github-metrics.svg)
+[Metrics](https://raw.githubusercontent.com/HarshithReddy01/HarshithReddy01/main/github-metrics.svg)
 
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshithReddy01&theme=react-dark&hide_border=true&radius=8)
 
 
 
-## 📫 Let's Connect
+##Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/harshith-reddy-nalla-6005012ab/)
 - [GitHub](https://github.com/HarshithReddy01)
