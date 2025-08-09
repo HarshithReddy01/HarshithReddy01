@@ -57,6 +57,15 @@ HTML/CSS/JavaScript-based personal website hosted via GitHub Pages
 ## 📈 GitHub Stats
 📊 **GitHub Stats:**  
 ![Harshith Reddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithReddy01&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Harshith Reddy Nalla GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithReddy01&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithReddy01&layout=compact&theme=radical)  
+
+
+📈 [Metrics](https://raw.githubusercontent.com/HarshithReddy01/HarshithReddy01/main/github-metrics.svg)
+
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshithReddy01&theme=react-dark&hide_border=true&radius=8)
+
 
 
 ## 📫 Let's Connect
