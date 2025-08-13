@@ -1,15 +1,10 @@
 
-## GitHub Stats
-**GitHub Stats:**  
-![Harshith Reddy Nalla GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshithReddy01&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithReddy01&layout=compact&theme=radical)  
-
+## My GitHub
 
 [Metrics](https://raw.githubusercontent.com/HarshithReddy01/HarshithReddy01/main/github-metrics.svg)
 
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshithReddy01&theme=react-dark&hide_border=true&radius=8)
-
 
 
 ##Let's Connect
