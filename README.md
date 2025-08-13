@@ -9,6 +9,5 @@
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/harshith-reddy-nalla-6005012ab/)
-- [GitHub](https://github.com/HarshithReddy01)
 - [Portfolio Website](https://harshithreddy01.github.io/My-Web/)
 
