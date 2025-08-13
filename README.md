@@ -1,6 +1,9 @@
 
 ## My GitHub
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithReddy01&layout=compact)
+
+
 [Metrics](https://raw.githubusercontent.com/HarshithReddy01/HarshithReddy01/main/github-metrics.svg)
 
 
