@@ -4,6 +4,9 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarshithReddy01&theme=react-dark&hide_border=true&radius=8)
 
+![Metrics](https://metrics.lecoq.io/HarshithReddy01?template=classic&base=header,activity,community,...) 
+
+
 
 ## Let's Connect
 
