@@ -1,7 +1,7 @@
 ## My GitHub
 
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HarshithReddy01&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshithReddy01&layout=compact)
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/harshith-reddy-nalla-6005012ab/)
