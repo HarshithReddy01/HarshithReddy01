@@ -7,7 +7,7 @@
 - [Portfolio Website](https://harshithreddy01.github.io/My-Web/)
 
 
-## ✨ Daily Inspiration
+## Daily Inspiration
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
